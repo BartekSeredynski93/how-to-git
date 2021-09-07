@@ -7,3 +7,4 @@ Here I put some change locally
 changes done locally on the feature-how-to-branch-2 
 changes done remotely
 changes done remotely second time on the branch feature-how-to-branch-2
+changes done remotely third time on the branch feature-how-to-branch-2
