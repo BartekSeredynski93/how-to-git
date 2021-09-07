@@ -3,12 +3,18 @@ First modification
 Aleksander makes mess
 It's time for dinner
 
-This file is in markup syntax:
+Clean this mess
+one change >>local<<
 
-headers are made with `#` sign, the more `#` the smaller the text:
+third change >>local<<
 
-# Big header
+oops, mess again >>remote<< here
+and here also >>remote<<
 
+add first commit >>local<<
+add second commit >>local<<
+
+yy y
 Text1
 
 ## Smaller header
