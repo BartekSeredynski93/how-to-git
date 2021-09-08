@@ -1,0 +1,6 @@
+What to learn in scala?
+
+1. How to print "Hello world"
+2. How to do http request
+3. How to create classes
+4. How to create functions/methods
